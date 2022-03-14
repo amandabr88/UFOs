@@ -12,11 +12,11 @@ The user can use one or all five filters to chack the data.
 
 For example, below you can see in the screenshot the data filtered only by shape 'circle'
 
-![sample1](/static/images/sample1.png)
+![sample1](https://github.com/amandabr88/UFOs/blob/main/static/images/sample1.PNG)
 
 And in this second one I have used 2 filters, one by state and by date.
 
-![sample1](/static/images/sample1.png)
+![sample2](https://github.com/amandabr88/UFOs/blob/main/static/images/sample2.PNG)
 
 
 ## Summary
