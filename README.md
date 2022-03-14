@@ -1,6 +1,4 @@
 # UFOs
-UFOs
-# UFOs
 
 ## Overview of Project
 Create an interactive website that  provides a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. 
